@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 39c3d9c4c768ee2408938be1230c9ddb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -86075536016399706
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_0
+  - first:
+      213: 4157544505124129186
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_1
+  - first:
+      213: 4023827778533961185
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_2
+  - first:
+      213: 8248489701995208578
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_3
+  - first:
+      213: -289296361504954404
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_4
+  - first:
+      213: -4619337770924764232
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_5
+  - first:
+      213: -13303347931288331
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_6
+  - first:
+      213: -3379718907049306016
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_7
+  - first:
+      213: -6861299810075634562
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_8
+  - first:
+      213: -4502401298095206791
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_9
+  - first:
+      213: 476986258390883019
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_10
+  - first:
+      213: -9006725819984864684
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_11
+  - first:
+      213: 8138710669826969756
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_12
+  - first:
+      213: 8209816671823775999
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_13
+  - first:
+      213: -5039852893020085822
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_14
+  - first:
+      213: -2288217536062849915
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_15
+  - first:
+      213: -4140553640789490026
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_16
+  - first:
+      213: -6443910442624547527
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_17
+  - first:
+      213: 2581451472778327096
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_18
+  - first:
+      213: 6883662649325846328
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_19
+  - first:
+      213: -2496573990817721516
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_20
+  - first:
+      213: 8929228465175087259
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_21
+  - first:
+      213: 2728493720056520139
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_22
+  - first:
+      213: 7649205354776476893
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_23
+  - first:
+      213: -6289639576156035382
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_24
+  - first:
+      213: -7179181767736236257
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_25
+  - first:
+      213: 9056285789106524522
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_26
+  - first:
+      213: 4931242677941574943
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_27
+  - first:
+      213: 4937503701633228686
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_28
+  - first:
+      213: -1687852037635259287
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_29
+  - first:
+      213: -2120211427130610770
+    second: 219-2198328_example-animations-stardew-valley-player-sprite_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a224eb81c23ecef0800000000000000
+      internalID: -86075536016399706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 482
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a90dc523b092b930800000000000000
+      internalID: 4157544505124129186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 482
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edadd0ab0287d730800000000000000
+      internalID: 4023827778533961185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 478
+        width: 60
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f54ec7ea5887270800000000000000
+      internalID: 8248489701995208578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 442
+        width: 56
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72fa1fd763cfbf0800000000000000
+      internalID: -289296361504954404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 466
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b31c7a85c0d4efb0800000000000000
+      internalID: -4619337770924764232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 449
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6b30fcacb0dff0800000000000000
+      internalID: -13303347931288331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06897a08f83d811d0800000000000000
+      internalID: -3379718907049306016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 315
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749cfaec24c7c0a0800000000000000
+      internalID: -6861299810075634562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 315
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e07c6cfd14481c0800000000000000
+      internalID: -4502401298095206791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 318
+        width: 56
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca912e89789e9600800000000000000
+      internalID: 476986258390883019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 304
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a967e169ea10380800000000000000
+      internalID: -9006725819984864684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 304
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d7b4cb3282f070800000000000000
+      internalID: 8138710669826969756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 306
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c22bf3c02fe170800000000000000
+      internalID: 8209816671823775999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 160
+        width: 60
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1205ffe78de0ab0800000000000000
+      internalID: -5039852893020085822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7722464e9e30e0800000000000000
+      internalID: -2288217536062849915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 149
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ca4bb66cc986c0800000000000000
+      internalID: -4140553640789490026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350feef791a296a0800000000000000
+      internalID: -6443910442624547527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 161
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8347cd7ff6823d320800000000000000
+      internalID: 2581451472778327096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 165
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff0b655bea78f50800000000000000
+      internalID: 6883662649325846328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 260
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45394d9ce236a5dd0800000000000000
+      internalID: -2496573990817721516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 252
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984111eafdfaeb70800000000000000
+      internalID: 8929228465175087259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 147
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5adb059e8dd520800000000000000
+      internalID: 2728493720056520139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 152
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb7713ebf672a60800000000000000
+      internalID: 7649205354776476893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62bf12126b6b8a0800000000000000
+      internalID: -6289639576156035382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ee1c183c6e5c90800000000000000
+      internalID: -7179181767736236257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61dc1461f36ead70800000000000000
+      internalID: 9056285789106524522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d14f7b61b4f6440800000000000000
+      internalID: 4931242677941574943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f5605e479858440800000000000000
+      internalID: 4937503701633228686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c45fa38b8398e0800000000000000
+      internalID: -1687852037635259287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 219-2198328_example-animations-stardew-valley-player-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 5
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe72db0fe7392e0800000000000000
+      internalID: -2120211427130610770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

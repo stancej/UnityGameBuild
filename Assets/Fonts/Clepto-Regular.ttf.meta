@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c1b1f09f4609236408291a1579f54636
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Clepto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f19d295d2e639ea4e93cecbee839ad7e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
